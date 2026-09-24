@@ -1,4 +1,4 @@
-¡CUALES SON LAS PRINCIPALES DIFERENCIAS ENTRE HASKELL Y RUST?
+¿CUALES SON LAS PRINCIPALES DIFERENCIAS ENTRE HASKELL Y RUST?
 Haskll es puramente funcional y siempre se  representa con funciones matematicas que no tienen efectos derivados, lo que hace que cada funcion devuelva el mismo resultado con la misma entrada, aparte no se pueden hacer construcciones de lenguaje imperativo.
 Rust combina ideas funcionales con programacion imperativa, al mismo tiempo que busca el mayor rendimiento posible y no usa un recolector de basura, al contrario de haskell
 

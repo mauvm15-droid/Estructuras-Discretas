@@ -1,4 +1,4 @@
---FUNCIÒN DE RECONVERSION 
+--FUNCION DE RECONVERSION 
 reconversion :: Float -> Float
 reconversion x = x/1000
 
@@ -45,3 +45,11 @@ imc x y =
 --FUNCION PARA LA HIPOTENUSA
 hipotenusa :: Float -> Float -> String
 hipotenusa b h= "Hipotenusa: "++ show(sqrt((b*b) + (h*h)))
+
+--FUNCION PARA LA PENDIENTE
+pendiente :: (Float, Float) -> (Float, Float) -> Float
+pendiente (x1, y1) (x2, y2) = (y2-y1)/(x2-x1)
+
+--FUNCION DISTANCIA ENTRE DOS PUNTOS
+distanciaPuntos :: (Float, Float) -> (Float, Float) -> Float
+distanciaPuntos (x1, y1) (x2, y2) = sqrt((y2-y1)*(y2-y1)  + (x2-x1)*(x2-x1))

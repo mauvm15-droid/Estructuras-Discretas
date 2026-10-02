@@ -7,4 +7,4 @@ Lo hice en distintos momentos del dìa asi que no sabrìa decirlo bien, pero cal
 COMENTARIO EXTRA:
 Al querer hacer algunas al momento de investigar encontre con algo llamado "when" que creo era una forma de declarar variables en una funcion, pero no supe si lo podiamos usar, asi que los metodos o funciones son algo ineficientes por eso
 
-![Pruebas en GHCi](CargaArchivo.png)
+![Pruebas en GHCi](CargaArchivoo.png)
